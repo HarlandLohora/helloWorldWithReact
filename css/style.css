@@ -1,0 +1,13 @@
+*{
+	color:white;
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	background-color: black;
+	overflow: hidden;
+}
+h1{
+	font-size: 4em;
+}
+div{
+	margin:15% 0;
+}
